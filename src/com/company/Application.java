@@ -5,7 +5,7 @@ package com.company;
          }*/
 public class Application {
     public static void main(String[] args){
-
+//üslü sayı hesaplayan program
         int n=5;
         int k=3; int total=1;
         for(int i=1;i<=k; i++){
